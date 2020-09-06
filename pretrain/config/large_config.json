@@ -1,7 +1,7 @@
 {
-  "tpu_name": "koelectra-v3-large",
+  "tpu_name": "koelectra-v3-large-51000",
   "tpu_zone": "europe-west4-a",
-  "vocab_size": 35000,
+  "vocab_size": 51000,
   "num_train_steps": 2400000,
   "save_checkpoints_steps": 25000,
   "train_batch_size": 64,
